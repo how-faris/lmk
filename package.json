@@ -1,0 +1,21 @@
+{
+  "name": "lmk",
+  "version": "1.0.0",
+  "description": "A zero-dependency package that sends messages to Faris's server",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "lmk",
+    "notification",
+    "faris",
+    "let-me-know",
+    "letmeknow"
+  ],
+  "author": "Faris Ali",
+  "license": "ISC",
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
