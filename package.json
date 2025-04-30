@@ -1,6 +1,6 @@
 {
   "name": "let-me-know",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A zero-dependency package that sends messages to Faris's server",
   "main": "index.js",
   "scripts": {
